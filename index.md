@@ -4,6 +4,6 @@
 [作業3](https://163lemon.github.io/1110932025/div)
 [期中作業](https://163lemon.github.io/1110932025/h1)
 [作業4](https://163lemon.github.io/1110932025/fiVE.html)
-[作業5]{https://163lemon.github.io/1110932025/JS)
+[作業5](https://163lemon.github.io/1110932025/JS.html)
 <div>
   <a href=''>回首頁</a>
